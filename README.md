@@ -5,8 +5,8 @@ Event Feedback Analyzer is a full-stack application for creating events and anal
 ## Clone and setup
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/NickSinazhenski/ibm_task.git
+cd ibm_task
 mvn install
 npm install
 ```
