@@ -200,3 +200,6 @@ logs/
 
 # Ignore gitignore itself except the one in root
 !.gitignore
+
+# Application secrets
+src/main/resources/application.properties
