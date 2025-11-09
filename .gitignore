@@ -203,3 +203,4 @@ logs/
 
 # Application secrets
 src/main/resources/application.propertiestarget/
+src/main/resources/application.properties
