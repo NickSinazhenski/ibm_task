@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: ibm_task
+    env: docker
+    plan: free
+    autoDeploy: true
+    envVars:
+      - key: HUGGINGFACE_API_TOKEN
+        sync: false
+      - key: PORT
+        value: 8080
